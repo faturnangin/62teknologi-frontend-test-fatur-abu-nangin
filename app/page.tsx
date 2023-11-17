@@ -1,10 +1,5 @@
 import Link from 'next/link'
-import { Globe2 } from 'lucide-react'
-import SectionTitle from '@/components/SectionTitle'
-import Card from '@/components/Card'
-import Search from '@/components/SearchBar'
-import SearchPage from '@/components/SearchSection'
-
+import SearchSection from '@/components/SearchSection'
 export default async function Home() {
   return (
   <div className='overflow-hidden'>
@@ -26,7 +21,7 @@ export default async function Home() {
         </div>
       </div>
     </section>
-    <SearchPage/>
+    <SearchSection/>
   </div>
   )
 }
