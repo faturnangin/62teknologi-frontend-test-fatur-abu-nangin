@@ -8,7 +8,7 @@ export default function SearchSection() {
   const [token, setToken] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/credentials')
+    fetch(`${process.env.BASEURL}/api/credentials`)
       .then((response) => response.json())
       .then((data) => setToken(data.token))
       .catch((error) => console.error('Error fetching token:', error));
