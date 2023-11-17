@@ -72,6 +72,7 @@ export default function SearchSection() {
           <div className='w-full flex flex-col items-center justify-center'>
           <SectionTitle title='Business by your search'/>
           </div>
+          {searchResults}
         </div>)
         }
       </div>
