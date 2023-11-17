@@ -28,6 +28,7 @@ export default function SearchSection() {
       const res = await fetch(`https://api.yelp.com/v3/businesses/search?${param}=${value}&limit=3`, {
         headers: {
           'Authorization': `Bearer ${token}`,
+          'Client-ID': 'DSj6I8qbyHf-Zm2fGExuug',
         },
       });
 
