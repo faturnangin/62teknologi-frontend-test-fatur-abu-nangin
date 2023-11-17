@@ -1,0 +1,879 @@
+{
+    "businesses": [
+      {
+        "id": "lenzYIvN2Dk06boef6dfgg",
+        "alias": "osteria-quarantaquattro-roma",
+        "name": "Osteria Quarantaquattro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KOkqqO35wtRxDqeHA4dXNg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/osteria-quarantaquattro-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 466,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9070413,
+          "longitude": 12.4951492
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+          "address1": "Via Aureliana 42",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Aureliana 42",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390642013318",
+        "display_phone": "+39 06 4201 3318",
+        "distance": 3353.6234078384955
+      },
+      {
+        "id": "a2RXf4VnQC-LsNERUf-bUw",
+        "alias": "ai-tre-scalini-roma",
+        "name": "Ai Tre Scalini",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0YklDi99A7YIBRsLHj7YUA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ai-tre-scalini-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 452,
+        "categories": [
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "pubs",
+            "title": "Pubs"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.8962951860604,
+          "longitude": 12.490467219049
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Panisperna 251",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00184",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Panisperna 251",
+            "00184 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390648907495",
+        "display_phone": "+39 06 4890 7495",
+        "distance": 4036.6589351856483
+      },
+      {
+        "id": "7SYM7QUmYBa-O_w7WW0RUg",
+        "alias": "mercato-centrale-roma",
+        "name": "Mercato Centrale",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FYOG4rrUiNupUNwsiHyjEg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mercato-centrale-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 87,
+        "categories": [
+          {
+            "alias": "cakeshop",
+            "title": "Patisserie/Cake Shop"
+          },
+          {
+            "alias": "cafeteria",
+            "title": "Cafeteria"
+          },
+          {
+            "alias": "breweries",
+            "title": "Breweries"
+          }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+          "latitude": 41.898748,
+          "longitude": 12.503761
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Giovanni Giolitti 36",
+          "address2": "",
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00185",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Giovanni Giolitti 36",
+            "00185 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390646202900",
+        "display_phone": "+39 06 4620 2900",
+        "distance": 2922.000125007332
+      },
+      {
+        "id": "nZuGmOA43r2ApPObVZJAqQ",
+        "alias": "mamma-angelas-trattoria-roma-4",
+        "name": "Mamma Angela's Trattoria",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2iyekrB6rLGkTSt-BwmkAA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mamma-angelas-trattoria-roma-4?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 400,
+        "categories": [
+          {
+            "alias": "trattorie",
+            "title": "Trattorie"
+          },
+          {
+            "alias": "roman",
+            "title": "Roman"
+          },
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+          "latitude": 41.9046573925779,
+          "longitude": 12.5045174999711
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Palestro 53",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00185",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Palestro 53",
+            "00185 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390644341317",
+        "display_phone": "+39 06 4434 1317",
+        "distance": 2635.6377013801825
+      },
+      {
+        "id": "NOHvG4ipWNsC8AN8nZ5fnA",
+        "alias": "rifugio-romano-roma",
+        "name": "Rifugio Romano",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Pvoc52fwSai12Eb6iEsmEw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rifugio-romano-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 184,
+        "categories": [
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          },
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "vegan",
+            "title": "Vegan"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.90449,
+          "longitude": 12.49956
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Volturno 39",
+          "address2": null,
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00185",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Volturno 39",
+            "00185 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39064880945",
+        "display_phone": "+39 06 488 0945",
+        "distance": 3037.455421253403
+      },
+      {
+        "id": "rLaPNO6TLGJLONJjUPhjSg",
+        "alias": "al-forno-della-soffitta-roma-2",
+        "name": "Al Forno della Soffitta",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vjDKaw2lKg46259G4kMMtg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/al-forno-della-soffitta-roma-2?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 254,
+        "categories": [
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          },
+          {
+            "alias": "napoletana",
+            "title": "Napoletana"
+          },
+          {
+            "alias": "roman",
+            "title": "Roman"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9097565,
+          "longitude": 12.4983264
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Piave 62",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Piave 62",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390642011164",
+        "display_phone": "+39 06 4201 1164",
+        "distance": 3070.8994467365483
+      },
+      {
+        "id": "uno-y092hhzVPecIrjtf6g",
+        "alias": "amedeo-ristorante-roma",
+        "name": "Amedeo Ristorante",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GjhfyANTRdaLXj2oQXjWMw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/amedeo-ristorante-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 317,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+          "latitude": 41.9000303,
+          "longitude": 12.498415
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Principe Amedeo 16",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00185",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Principe Amedeo 16",
+            "00185 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39064817632",
+        "display_phone": "+39 06 481 7632",
+        "distance": 3271.7397482477604
+      },
+      {
+        "id": "SjZIdPDnm0W4LmnHEW6zXg",
+        "alias": "osteria-barberini-roma",
+        "name": "Osteria Barberini",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HtWwbu1lA3LU9utqM-Y-1g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/osteria-barberini-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 307,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "roman",
+            "title": "Roman"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.90445,
+          "longitude": 12.48753
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+          "address1": "Via della Purificazione 21",
+          "address2": null,
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via della Purificazione 21",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39064743325",
+        "display_phone": "+39 06 474 3325",
+        "distance": 4020.804384836045
+      },
+      {
+        "id": "-i5sf6JOXkYY6BhtO2EMMw",
+        "alias": "cantina-dei-papi-roma",
+        "name": "Cantina dei Papi",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DqkNCmSUyFHr-sik4jZXNw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cantina-dei-papi-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 540,
+        "categories": [
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "sandwiches",
+            "title": "Sandwiches"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9017494369833,
+          "longitude": 12.4846919717593
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via della Panetteria 34A",
+          "address2": "",
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via della Panetteria 34A",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39066786990",
+        "display_phone": "+39 06 678 6990",
+        "distance": 4306.709491627551
+      },
+      {
+        "id": "xgtrN9GUVCIiWuFOpf7wWg",
+        "alias": "il-chianti-roma",
+        "name": "Il Chianti",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/goi9wKe5n76UJGZA35Exvg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/il-chianti-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 270,
+        "categories": [
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "tuscan",
+            "title": "Tuscan"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.901143,
+          "longitude": 12.4841656
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via del Lavatore 81",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via del Lavatore 81",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39066787550",
+        "display_phone": "+39 06 678 7550",
+        "distance": 4364.566437129342
+      },
+      {
+        "id": "inz5XG_fRrQjf8sjA6TnyQ",
+        "alias": "alessio-roma-5",
+        "name": "Alessio",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5NIfbL0zMeqRIay4pORDZA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alessio-roma-5?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 452,
+        "categories": [
+          {
+            "alias": "roman",
+            "title": "Roman"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "beerbar",
+            "title": "Beer Bar"
+          }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+          "latitude": 41.901,
+          "longitude": 12.49713
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via del Viminale 2G",
+          "address2": null,
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00184",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via del Viminale 2G",
+            "00184 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39064885271",
+        "display_phone": "+39 06 488 5271",
+        "distance": 3344.7429925757488
+      },
+      {
+        "id": "c5Ub_BmlV80G6ASSLmLoTA",
+        "alias": "thats-amore-roma-2",
+        "name": "That's Amore",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GHFxfangapEfXpiHNQrLmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thats-amore-roma-2?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 661,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+          "latitude": 41.9021288,
+          "longitude": 12.4858295
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via in Arcione 115",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via in Arcione 115",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39066790302",
+        "display_phone": "+39 06 679 0302",
+        "distance": 4205.581043227631
+      },
+      {
+        "id": "CZXe6TRErDZ63v3vayujNQ",
+        "alias": "culinaria-roma",
+        "name": "Culinaria",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Hj-LOWoZxUbMGnxZEQB1gQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/culinaria-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 51,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9038811,
+          "longitude": 12.4994297
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+          "address1": "Via Gaeta 81",
+          "address2": null,
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00185",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Gaeta 81",
+            "00185 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39064880509",
+        "display_phone": "+39 06 488 0509",
+        "distance": 3070.5575218329914
+      },
+      {
+        "id": "Orov3cabCwk9--0ZzT6a5w",
+        "alias": "marzapane-roma-2",
+        "name": "Marzapane",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a4kYxA5_ZbjlLIi74PMktw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marzapane-roma-2?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 33,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9126205,
+          "longitude": 12.4985104
+        },
+        "transactions": [],
+        "price": "€€€€",
+        "location": {
+          "address1": "Via Velletri 39",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00198",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Velletri 39",
+            "00198 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390664781692",
+        "display_phone": "+39 06 6478 1692",
+        "distance": 3063.4318369191888
+      },
+      {
+        "id": "MtnKUDm2a9PckD_qnEAE5w",
+        "alias": "roscioli-roma-4",
+        "name": "Roscioli",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K1jto9lue2oYjf_lMYiWvw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/roscioli-roma-4?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 418,
+        "categories": [
+          {
+            "alias": "salumerie",
+            "title": "Salumerie"
+          },
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.8941856607235,
+          "longitude": 12.4741937220097
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via dei Giubbonari 21",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00186",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via dei Giubbonari 21",
+            "00186 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39066875287",
+        "display_phone": "+39 06 687 5287",
+        "distance": 5377.825832080224
+      },
+      {
+        "id": "j-giVdvEJFJgdjKQVWDhSw",
+        "alias": "cantina-e-cucina-roma",
+        "name": "Cantina e Cucina",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qxy-sqGejNPUlGHCvHeugQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cantina-e-cucina-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 700,
+        "categories": [
+          {
+            "alias": "cafeteria",
+            "title": "Cafeteria"
+          },
+          {
+            "alias": "pizza",
+            "title": "Pizza"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.89801,
+          "longitude": 12.47162
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via del Governo Vecchio 87",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00186",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via del Governo Vecchio 87",
+            "00186 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39066892574",
+        "display_phone": "+39 06 689 2574",
+        "distance": 5455.725715702361
+      },
+      {
+        "id": "EDKOLq4nudrAmpGBkRyyUw",
+        "alias": "rosemary-terra-e-sapori-roma-9",
+        "name": "Rosemary Terra E Sapori",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fm5F_4nsBDre_IXbnDzK5g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rosemary-terra-e-sapori-roma-9?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 85,
+        "categories": [
+          {
+            "alias": "breakfast_brunch",
+            "title": "Breakfast & Brunch"
+          },
+          {
+            "alias": "italian",
+            "title": "Italian"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9020262517725,
+          "longitude": 12.493994794786
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Modena 14",
+          "address2": null,
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00184",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Modena 14",
+            "00184 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390648913645",
+        "display_phone": "+39 06 4891 3645",
+        "distance": 3552.117763578332
+      },
+      {
+        "id": "l_eVnablGcsK3JZ2y-vr5Q",
+        "alias": "da-enzo-al-29-roma-2",
+        "name": "Da Enzo al 29",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9w-CIR7AABPwlbTKlxOhmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/da-enzo-al-29-roma-2?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 425,
+        "categories": [
+          {
+            "alias": "roman",
+            "title": "Roman"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.88812,
+          "longitude": 12.47774
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via dei Vascellari 29",
+          "address2": null,
+          "address3": null,
+          "city": "Rome",
+          "zip_code": "00153",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via dei Vascellari 29",
+            "00153 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+39065812260",
+        "display_phone": "+39 06 581 2260",
+        "distance": 5375.206784714747
+      },
+      {
+        "id": "QBTvje0npf7qo7M93bK0ow",
+        "alias": "life-roma",
+        "name": "Life",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZkTYXbP3ekn2ybVn5bzyHQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/life-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 256,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.9034907968206,
+          "longitude": 12.4805223941803
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via della Vite 28",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00187",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via della Vite 28",
+            "00187 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390669380948",
+        "display_phone": "+39 06 6938 0948",
+        "distance": 4607.606930789575
+      },
+      {
+        "id": "Np51M5tJsJWQzD782vwUkQ",
+        "alias": "sciuè-sciuè-roma",
+        "name": "Sciuè Sciuè",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G2WSUnZLz24nKleFgOfGlA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sciu%C3%A8-sciu%C3%A8-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+        "review_count": 97,
+        "categories": [
+          {
+            "alias": "italian",
+            "title": "Italian"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 41.89517,
+          "longitude": 12.49322
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+          "address1": "Via Urbana 56",
+          "address2": "",
+          "address3": "",
+          "city": "Rome",
+          "zip_code": "00184",
+          "country": "IT",
+          "state": "RM",
+          "display_address": [
+            "Via Urbana 56",
+            "00184 Rome",
+            "Italy"
+          ]
+        },
+        "phone": "+390648906038",
+        "display_phone": "+39 06 4890 6038",
+        "distance": 3853.164363276655
+      }
+    ],
+    "total": 7400,
+    "region": {
+      "center": {
+        "longitude": 12.535400390625,
+        "latitude": 41.91026940222348
+      }
+    }
+}
