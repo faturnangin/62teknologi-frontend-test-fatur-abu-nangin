@@ -24,6 +24,7 @@ export default function SearchSection() {
       console.log(token)
       console.log(param)
       console.log(value)
+      console.log(`${process.env.BASEURL}/api/credentials`)
       console.log(`https://api.yelp.com/v3/businesses/search?${param}=${value}&limit=3`)
       const res = await fetch(`https://api.yelp.com/v3/businesses/search?${param}=${value}&limit=3`, {
         headers: {
