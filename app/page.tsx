@@ -1,7 +1,4 @@
-import Link from "next/link";
 import SearchSection from "@/components/SearchSection";
-import Card from "@/components/Card";
-import SectionTitle from "@/components/SectionTitle";
 
 export default async function Home() {
   
