@@ -59,7 +59,7 @@ export default function SearchSection() {
   // };
   const fetchData = async () => {
     setIsLoading(true);
-    let apiUrl = `${process.env.BASE_URL}/api/business?location=${country}`;
+    let apiUrl = `${process.env.VERCEL_URL}/api/business?location=${country}`;
     if (searchBy !== '' && keyword !== '') {
       apiUrl += `&searchBy=${searchBy}&keyword=${keyword}`;
     }
